@@ -1,0 +1,55 @@
+NEWS
+
+9
+
+ENHANCEMENT:
+
+* New translations
+
+7
+
+ENHANCEMENT:
+* Ignacio Rodríguez port to gtk3
+
+6
+
+ENHANCEMENTS:
+* Added play levels (beginner, intermediate, expert, custom)
+* Added better end-of-game feedback
+
+5
+
+ENHANCEMENTS:
+* Added weighting function to turtle strategy (perhaps it is too difficult
+  now?)
+* Made dots a bit larger
+
+BUG FIX:
+* Added missing space in error messages
+
+4
+
+ENHANCEMENTS:
+* More tools for building strategies
+* Slightly more challenging default behavior for turtle
+
+BUG FIX:
+* Fixed bug with errant button presses
+
+3
+
+ENHANCEMENTS:
+* Improved graphics (turtle is now a turtle)
+* Error messages from custom strategy appears on toolbar
+* Reloading strategy starts new game
+* Improved documentation; please see
+  http://wiki.sugarlabs.org/go/Activities/Turtle_in_a_Pond
+
+2
+
+BUG FIX:
+* Fixed problem launching with old-style toolbars
+
+1
+
+* New project
